@@ -40,7 +40,7 @@ timeseries_analysis/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/tu-usuario/timeseries-eigenvalue-analysis.git
+git clone https://github.com/saulhuitzil/timeseries-eigenvalue-analysis.git
 cd timeseries-eigenvalue-analysis
 ```
 
