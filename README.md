@@ -852,7 +852,7 @@ Or cite our paper: To be published.
 
 ## Contact
 
-**Email:** saulhuitzil@gmail.com  
+**Email:** alejandro.frank@gmail.com saulhuitzil@gmail.com meithan@gmail.com laurence.jacobs@uzh.ch
 **Version:** 1.0.0
 
 ---
