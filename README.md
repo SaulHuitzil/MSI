@@ -865,7 +865,7 @@ See [LICENSE](LICENSE) file for details.
 
 ---
 
-## Acknowledgments## Acknowledgments
+## Acknowledgments
 
 <p align="center">
   <a href="https://www.unam.mx/">
